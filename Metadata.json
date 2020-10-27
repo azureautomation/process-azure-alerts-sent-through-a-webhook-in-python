@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 791,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/process-azure-alerts-sent-through-a-webhook-in-python/master/process_azure_alerts.py",
+    "DownloadCount": 1054,
+    "Id": "Process-Azure-alerts-sent-2ca9e0fa",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 80,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-9-1T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "Processes a webhook sent from an Azure alert.This Azure Automation sample runbook runs on Azure to process an alert sent through a webhook. It converts the RequestBody into a Python object by loading the json string sent in.",
+    "Title": "Process Azure alerts sent through a webhook in Python",
+    "UpdatedDate": "2018-9-1T00:00:00",
+    "Url": "https://github.com/azureautomation/process-azure-alerts-sent-through-a-webhook-in-python",
+    "UserTags": "Azure Automation, Python, Azure Alert"
+}
